@@ -103,4 +103,4 @@ console.log(`Balance: ${balance}`);
 ### **Expected Outcome**:
 The project will simulate a basic tokenized asset system where securities are represented as tokens and can be transferred between parties. You can then demonstrate clearing processes (transfer of assets) and test for security vulnerabilities.
 
-This setup aligns with **DTCC’s focus on asset tokenization and settlement**, showing your understanding of **blockchain’s role in financial markets**.
+This setup aligns with **focus on asset tokenization and settlement**, showing your understanding of **blockchain’s role in financial markets**.
