@@ -1,0 +1,22 @@
+{
+    "name": "tokenized-asset",
+    "version": "1.0.0",
+    "description": "Tokenized Asset Settlement System",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx hardhat test",
+        "deploy": "npx hardhat run scripts/deploy.js --network rinkeby"
+    },
+    "dependencies": {
+        "@ethersproject/abi": "^5.7.0",
+        "@ethersproject/providers": "^5.7.0",
+        "ethers": "^5.7.0",
+        "web3": "^1.7.1"
+    },
+    "devDependencies": {
+        "@nomiclabs/hardhat-ethers": "^2.0.0",
+        "chai": "^4.3.6",
+        "hardhat": "^2.16.0",
+        "mocha": "^10.2.0"
+    }
+}
